@@ -7,7 +7,7 @@ The manuscript specifies the framework and reported aggregate results, but does 
 
 - `data/reported/` contains values transcribed from the manuscript and is clearly labelled **reported, not reproduced**.
 - Default values in `config/default.yaml` are explicit implementation assumptions.
-- `scripts/run_demo.py` runs a deterministic end-to-end synthetic demonstration.
+- `scripts/run_demo.py` runs a deterministic end-to-end  demonstration.
 - `scripts/train.py` and `scripts/download_data.py` support public torchvision datasets for real experiments.
 
 ## Quick start
